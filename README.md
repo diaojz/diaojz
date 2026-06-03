@@ -1,4 +1,4 @@
-### Hi there 👋 我是 @diaojz
+### Hi there 👋 我是 习爷
 
 🧑‍💻 **Full-Stack Vibe Coder**
 专注用 AI 把想法快速变成能跑的产品 —— 从前端到后端，从 macOS 到 Web 到移动端。
